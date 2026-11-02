@@ -1,0 +1,4 @@
+BMW Motorrad Tech Catalog | RE:MOTO LAB | DUPLIKEY MX
+Versión consolidada B8 de revisión.
+Incluye index.html e inventario CSV.
+Aviso: algunas rutas assets/ y recursos gráficos externos no están incluidos en esta entrega.
